@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="096565ec-b392-4252-a7de-54a52ac90be1" name="Changes" comment="Add Selenium script to perform a Google search on Google Turkey" />
+    <list default="true" id="096565ec-b392-4252-a7de-54a52ac90be1" name="Changes" comment="Add waiting intervals to ensure page elements are fully loaded" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721945652294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add waiting intervals to ensure page elements are fully loaded">
+      <option name="closed" value="true" />
+      <created>1721945739738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721945739738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Selenium script to perform a Google search on Google Turkey" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Selenium script to perform a Google search on Google Turkey" />
+    <MESSAGE value="Add waiting intervals to ensure page elements are fully loaded" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add waiting intervals to ensure page elements are fully loaded" />
   </component>
 </project>
