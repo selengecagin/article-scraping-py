@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="096565ec-b392-4252-a7de-54a52ac90be1" name="Changes" comment="Scrape post titles and URLs" />
+    <list default="true" id="096565ec-b392-4252-a7de-54a52ac90be1" name="Changes" comment="Integrate web-driver manager to handle errors" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,13 +88,33 @@
       <option name="project" value="LOCAL" />
       <updated>1721945806166</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Integrate web-driver manager to handle errors">
+      <option name="closed" value="true" />
+      <created>1721945878342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721945878342</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Selenium script to perform a Google search on Google Turkey" />
     <MESSAGE value="Add waiting intervals to ensure page elements are fully loaded" />
     <MESSAGE value="Scrape post titles and URLs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scrape post titles and URLs" />
+    <MESSAGE value="Integrate web-driver manager to handle errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrate web-driver manager to handle errors" />
   </component>
 </project>
